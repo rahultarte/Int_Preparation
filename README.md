@@ -1,6 +1,7 @@
 # Int_Preparation
 
-https://github.com/DeepakPrabakar/unix-linux-interview-questions#1-delete-blank-lines-in-file
+https://github.com/DeepakPrabakar/unix-linux-interview-questions
+
 
 
 Unix / Linux Interview Questions
