@@ -1,4 +1,8 @@
 # Int_Preparation
+
+https://github.com/DeepakPrabakar/unix-linux-interview-questions#1-delete-blank-lines-in-file
+
+
 Unix / Linux Interview Questions
 This repo contains questions that have been taken from various sources. Most of these involve the use of two or more commands. I have used GIT Bash to execute the below scripts.
 
